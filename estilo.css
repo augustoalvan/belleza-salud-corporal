@@ -1,0 +1,237 @@
+@font-face{
+    font-family:mio;
+    src: url("letra/Alegreya-Regular.ttf");
+    font-family:mio2;
+    src: url("letra/BioRhyme-Light.ttf");
+    font-family:mio3;
+    src: url("letra/FjallaOne-Regular.ttf");
+}
+    
+ 
+    
+}
+@font-face{
+        font-family:mio2;
+    src: url("letra/BioRhyme-Light.ttf");
+@font-face{
+   font-family:mio3;
+    src: url("letra/FjallaOne-Regular.ttf");
+}
+
+#principal{
+    width: 900;
+    height: auto;overflow: hidden;
+    margin: auto;
+}
+/*header{
+    width: 900;
+    height: 100px;
+    border:0px solid #000;
+   */ 
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#contenedor{
+    width:994px;
+    height:990px;
+    background:#1C1C1C;
+    margin: 0.5em auto;   
+  text-align: center;
+}
+#header{
+     height:8%;
+    margin-top: 5px;
+   background:#585858;
+    margin: 0.3em;   
+     border-radius:1em;
+    margin-top: 8px;
+  
+  /*  display:block;*/
+}
+#cajahead{
+    width: 510px;
+      
+   }
+    
+
+.imgheader{
+    width: 120px;
+    height: 90%;
+    padding: 2px 2px;
+      border: 1px solid red;
+      float: right;
+     border-radius:1em;
+    margin-right: 10px;
+ }
+.imgheader1{
+    width: 120px;
+    height: 90%;
+    padding: 2px 2px;
+      border: 1px solid yellow;
+       float: right;
+     border-radius:1em;
+      margin-right: 5px;
+ }
+#conthead{
+      width: 400px;
+    height: 75%;
+      background: yelow;
+}
+
+h1{
+    width: 380px;
+    float: right;
+    font-size: 40px;
+    color:#FBFCFC;
+   margin-top: -5px;
+    
+}
+h3{
+    color:#FBFCFC;
+    margin-left: 28px;
+    margin-top: -5px;
+}
+
+#contenido{
+     height:83%;
+    background:#848484;
+    margin-top: 15px;   
+     border-radius:1em;
+}
+
+#cosmetica{
+    height:32%;
+    background:#585858 ;
+     margin-top: 10px;     
+     border-radius:1em;
+
+    
+}
+#nutricion{
+    height:32%;
+    background:#585858 ;
+     margin-top: 10px;     
+     border-radius:1em;
+
+    
+}
+
+#ganoderma{
+    height:32%;
+    background:#585858 ;
+    margin-top: 10px;   
+     border-radius:1em;
+    
+}
+
+
+.cosmetica1{
+    width: 33%;
+    height:90%;
+    background:black ;
+    margin:0.1em;   
+     border-radius:1em;
+     float: left;
+   margin-top: 3px
+   
+    
+}
+.nutricion1{
+    width: 33%;
+    height:90%;
+    background:black ;
+    margin:0.1em;   
+     border-radius:1em;
+      float: left;
+    margin-top: 3px;
+    
+}
+.ganoderma1{
+    width: 33%;
+    height:90%;
+    background:black ;
+    margin:0.1em;   
+     border-radius:1em;
+      float: left;
+    margin-top: 3px;
+    
+}
+
+.imgconte{
+    width: 326px;
+    height:235px;
+    background:#E59866;
+   border-radius:1em;
+    padding-left: 1px;
+   
+  
+    
+}
+H2{
+    font-family:sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-weight: 300px;
+    font-size: 19px;
+     color:#FBFCFC; 
+     background-color: rgba(23, 32, 42,0.6);
+     font-family: mio,arial,helvética,courier;
+     font-weight: bolder;
+  
+}
+
+
+footer{
+    height:6%;
+   background:#848484;
+    margin: 0.3em;   
+     border-radius:1em;
+ margin-top: 10px;
+   
+}
+.foo{
+     margin-top: 8px;
+     width:345px;
+      height: 60px;
+    float: right;
+}
+
+footer p{
+      background-color: rgba(43, 43, 52,0.9);
+     color:#FBFCFC;  
+    font-size: 18px;
+    font-family:sans-serif,helvética,courier;
+     font-weight: bolder;
+      margin-right: 5px;
+      border-radius:1em;
+      text-align: center;
+
+}
+#contefo{
+     width: 615px;
+    height: 40px;
+    font-size: 17px;
+      background-color: rgba(43, 43, 52,0.9);
+
+    float: left;
+       border-radius:1em;
+    margin: 10px 10px;
+  
+   
+        
+}
+
+h4{
+    color:#FBFCFC;
+    width: 608px;
+    height: 40px;
+     font-family: arial,sans-serif,helvética;
+     padding-left: -10px;
+     text-align: center;
+    padding-left: 3px;
+   
+}
